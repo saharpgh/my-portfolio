@@ -22,7 +22,7 @@ body {
   font-family: "Aboreto", cursive;
 }
 .loading-page > svg > g > text {
-  font-size: 40px;
+  font-size: 35px;
   fill: transparent;
   stroke: rgba(255, 255, 255, 0.423);
   stroke-dasharray: 0 1000px;
