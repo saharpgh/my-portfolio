@@ -12,7 +12,7 @@ body {
   align-items: center;
   height: 100vh;
   z-index: 999;
-  animation: fadeOut 1s 6s forwards;
+  animation: fadeOut 2s 6s forwards;
 }
 .loading-page > svg {
   position: relative;
