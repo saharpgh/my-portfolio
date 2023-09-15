@@ -12,17 +12,17 @@ body {
   align-items: center;
   height: 100vh;
   z-index: 999;
-  animation: fadeOut 1s 6s forwards;
+  animation: fadeOut 2s 6s forwards;
 }
 .loading-page > svg {
   position: relative;
   z-index: 999;
-  width: 600px;
+  width: 80%;
   height: 100px;
   font-family: "Aboreto", cursive;
 }
 .loading-page > svg > g > text {
-  font-size: 35px;
+  font-size: 3vw;
   fill: transparent;
   stroke: rgba(255, 255, 255, 0.423);
   stroke-dasharray: 0 1000px;
