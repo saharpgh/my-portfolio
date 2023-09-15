@@ -157,12 +157,12 @@ body {
     }
     >h1 {
         height: auto;
-        font-size: 40px;
+        font-size: 45px;
         font-family: 'Aboreto', cursive;
         margin-top: 30px;
     }
     >p {
-        font-size: 10px;
+        font-size: 13px;
         letter-spacing: 1px;
         margin-top: -10px;
     }
@@ -178,7 +178,7 @@ body {
                 text-decoration: none;
                 color: rgba(255, 255, 255, 0.814);
                 font-weight: bold;
-                font-size: 10px;
+                font-size: 14px;
                 transition: .7s;
                 position: relative;
                 &:hover {
@@ -208,7 +208,7 @@ body {
         flex-wrap: wrap;
         align-items: end;
         color: white;
-        font-size: 10px;
+        font-size: 14px;
         background-color: transparent;
         >p {
             padding-right: 10px;
@@ -258,7 +258,7 @@ body {
                     text-align: center;
                     margin-top: 14px;
                     color: rgba(255, 255, 255, 0.778);
-                    font-size: 11px;
+                    font-size: 16px;
                     text-transform: capitalize;
                 }
             }
@@ -318,7 +318,7 @@ body {
                     background-repeat: no-repeat;
                 }
                 .year {
-                    font-size: 10px;
+                    font-size: 13px;
                     color: white;
                     text-decoration: none;
                     width: auto;
@@ -328,7 +328,7 @@ body {
                 }
                .prj {
                     margin-left: 15px;
-                    font-size: 45px;
+                    font-size: 50px;
                     color: rgba(255, 255, 255, 0.778);
                     text-decoration: none;
                     font-family: 'Aboreto', cursive;
@@ -340,7 +340,7 @@ body {
                 }
                 @media (max-width: 992px) {
                     .year {
-                        font-size: 8px;
+                        font-size: 12px;
                         width: 100%;
                     }
                     .prj {
@@ -355,7 +355,7 @@ body {
                         }
                     }
                     .year {
-                        font-size: 5px;
+                        font-size: 11px;
                     }
                     .prj {
                         font-size: 35px;
@@ -411,7 +411,7 @@ body {
             // border: 1px solid red;
             position: absolute;
             top: 65%;
-            font-size: 10px;
+            font-size: 13px;
             color: white;
             text-align: center;
             @media (min-width: 768px) {
@@ -465,7 +465,7 @@ body {
             >a {
                 text-decoration: none;
                 color: white;
-                font-size: 10px;
+                font-size: 15px;
                 transition: 1s;
             }
             >svg {
@@ -495,7 +495,7 @@ body {
     z-index: 5;
     transform: rotate(270deg);
     color: rgba(255, 255, 255, 0.596);
-    font-size: 10px;
+    font-size: 13px;
 }
 
 
