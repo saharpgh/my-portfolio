@@ -383,8 +383,8 @@ body {
 }
 .right-side .info-side .pic {
   position: absolute;
-  width: 230px;
-  height: 250px;
+  width: 210px;
+  height: 230px;
   top: 24%;
 }
 .right-side .info-side .pic > img {
@@ -401,7 +401,7 @@ body {
 }
 .right-side .info-side .prg {
   position: absolute;
-  top: 65%;
+  top: 66%;
   font-size: 11px;
   color: white;
   text-align: center;
