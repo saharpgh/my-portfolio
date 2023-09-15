@@ -153,12 +153,12 @@ body {
 }
 .left-side > h1 {
   height: auto;
-  font-size: 45px;
+  font-size: 43px;
   font-family: "Aboreto", cursive;
   margin-top: 30px;
 }
 .left-side > p {
-  font-size: 13px;
+  font-size: 11px;
   letter-spacing: 1px;
   margin-top: -10px;
 }
@@ -176,7 +176,7 @@ body {
   text-decoration: none;
   color: rgba(255, 255, 255, 0.814);
   font-weight: bold;
-  font-size: 14px;
+  font-size: 12px;
   transition: 0.7s;
   position: relative;
 }
@@ -198,7 +198,7 @@ body {
   flex-wrap: wrap;
   align-items: end;
   color: white;
-  font-size: 14px;
+  font-size: 12px;
   background-color: transparent;
 }
 .right-side .Home-side > p {
@@ -249,7 +249,7 @@ body {
   text-align: center;
   margin-top: 14px;
   color: rgba(255, 255, 255, 0.778);
-  font-size: 16px;
+  font-size: 14px;
   text-transform: capitalize;
 }
 .right-side .project-side > div .list-project {
@@ -308,7 +308,7 @@ body {
   background-repeat: no-repeat;
 }
 .right-side .project-side > div .list-project .year {
-  font-size: 13px;
+  font-size: 11px;
   color: white;
   text-decoration: none;
   width: auto;
@@ -318,7 +318,7 @@ body {
 }
 .right-side .project-side > div .list-project .prj {
   margin-left: 15px;
-  font-size: 50px;
+  font-size: 48px;
   color: rgba(255, 255, 255, 0.778);
   text-decoration: none;
   font-family: "Aboreto", cursive;
@@ -330,11 +330,11 @@ body {
 }
 @media (max-width: 992px) {
   .right-side .project-side > div .list-project .year {
-    font-size: 12px;
+    font-size: 10px;
     width: 100%;
   }
   .right-side .project-side > div .list-project .prj {
-    font-size: 40px;
+    font-size: 38px;
     width: 100%;
   }
 }
@@ -343,10 +343,10 @@ body {
     width: 100%;
   }
   .right-side .project-side > div .list-project .year {
-    font-size: 11px;
+    font-size: 9px;
   }
   .right-side .project-side > div .list-project .prj {
-    font-size: 35px;
+    font-size: 33px;
   }
 }
 .right-side .project-side:target {
@@ -402,7 +402,7 @@ body {
 .right-side .info-side .prg {
   position: absolute;
   top: 65%;
-  font-size: 13px;
+  font-size: 11px;
   color: white;
   text-align: center;
 }
@@ -456,7 +456,7 @@ body {
 .right-side .contact-side > div > div > a {
   text-decoration: none;
   color: white;
-  font-size: 15px;
+  font-size: 13px;
   transition: 1s;
 }
 .right-side .contact-side > div > div > svg {
@@ -478,7 +478,7 @@ body {
   z-index: 5;
   transform: rotate(270deg);
   color: rgba(255, 255, 255, 0.596);
-  font-size: 13px;
+  font-size: 11px;
 }
 
 .scrollable-content {
